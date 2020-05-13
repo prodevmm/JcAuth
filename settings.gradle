@@ -1,0 +1,3 @@
+rootProject.name='SecureLogin'
+include ':app'
+include ':jclogin'
